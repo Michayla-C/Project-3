@@ -7,3 +7,9 @@ Think Pill is a web based application designed to help users recapture motivatio
 
 
 ## Criteria 
+
+## License & Copyright
+
+© Michayla Constantinou, The Coding Bootcamp
+
+Licensed under the [MIT License] (LICENSE).

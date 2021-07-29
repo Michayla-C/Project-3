@@ -1,3 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    background-color: #363636; ;
+  }
+  
+  /*header*/
+  .jumbotron {
+    text-align: center;
+    background-color: rgb(39, 157, 187);
+    color: snow;
+    border-bottom: 5px solid black;
+    padding: 20px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  /*text box*/
+  textarea {
+    background: whitesmoke;
+    border: black;
+    resize: none;
+    color: black;
+    border-left: 1px solid aqua;
+    border-radius: 15px;
+    padding: 10px;
+  }
+  
+  /*text*/
+  .text {
+    white-space: pre-wrap;
+  }
+  
+  /*time*/
+  .timeBlock {
+    text-align: center;
+    border-radius: 15px;
+  }
+  /*row*/
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;
+  }
+  
+  /*hour*/
+  .hour {
+    background-color: turquoise;
+    color: azure;
+    border-top: 1px dashed black;
+    border-radius: 15px;
+    text-align: center;
+  }
+  
+  /*save button*/
+  .save {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: burlywood;
+    color: aliceblue;
+  }
+  
+  /*hover*/
+  .save i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
 
 /*Device Compatability*/
 
